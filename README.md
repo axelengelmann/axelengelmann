@@ -26,3 +26,12 @@
 - [freeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/certification/axelengelmann/data-analysis-with-python-v7)
 - [freeCodeCamp Machine Learning with Python](https://www.freecodecamp.org/certification/axelengelmann/machine-learning-with-python-v7)
 - [Yale University Financial Markets](https://www.coursera.org/account/accomplishments/verify/L3UMJBUN7UR4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/axelengelmann/
+[linkedin]: https://linkedin.com/in/axel-engelmann
