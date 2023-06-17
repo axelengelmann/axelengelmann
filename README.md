@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1>Hi, I'm Axel! <br/><a href="https://github.com/axelengelmann">Data Science</a>, <a href="https://www.linkedin.com/in/axel-engelmann/?locale=en_US">Finance Professional</a>
 
-<!--
-**axelengelmann/axelengelmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Science/ML Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Logistic Regression and Tree based Machine Learning model</b>
+  - [Salifort Motors project lab](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/Salifort_Motors_project_lab.ipynb)
+ 
+- <b>XGBoost model and Random forest</b>
+  - [Waze project data science](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/waze_project_data_science.ipynb)
+ 
+- <b>Recommendation Engine using KNN</b>
+  - [Book Recommendation Engine using KNN](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/Book_recommendation.ipynb)
+ 
+- <b>Imagen Classifier</b>
+  - [Cat and Dog Image Classifier](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/cat_dog_fcc.ipynb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+  
+
+
+
+<h2> 📄 Certications:</h2>
+
+- [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/949J87NUF6WY)
+- [DeepLearning.IA Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/382H3V57VPS4)
+- [freeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/certification/axelengelmann/data-analysis-with-python-v7)
+- [freeCodeCamp Machine Learning with Python](https://www.freecodecamp.org/certification/axelengelmann/machine-learning-with-python-v7)
+- [Yale University Financial Markets](https://www.coursera.org/account/accomplishments/verify/L3UMJBUN7UR4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
