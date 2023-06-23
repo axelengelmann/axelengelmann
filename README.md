@@ -6,7 +6,7 @@
   - [Model Evaluation and Selection](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/Model_Evaluation_and_Selection_ML.ipynb)
  
 - <b>Collaborative Filtering Recommender Systems - Implementation collaborative filtering to build a recommender system for movies </b>
-  - [Collaborative Filtering Recommender Systems](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/Model_Evaluation_and_Selection_ML.ipynb)
+  - [Collaborative Filtering Recommender Systems](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/Collaborative_Filtering_Recommender_Systems.ipynb)
 
 - <b>Logistic Regression and Tree based Machine Learning model</b>
   - [Salifort Motors project lab](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/Salifort_Motors_project_lab.ipynb)
