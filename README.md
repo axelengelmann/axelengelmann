@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Data Science/ML Projects:</h2>
 
+- <b>Model Evaluation and Selection - Machine Learning - Regression, Classification, Polynomial Features and Feature scaling</b>
+  - [Model Evaluation and Selection](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/Model_Evaluation_and_Selection_ML.ipynb)
+
 - <b>Logistic Regression and Tree based Machine Learning model</b>
   - [Salifort Motors project lab](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/Salifort_Motors_project_lab.ipynb)
  
@@ -13,6 +16,9 @@
  
 - <b>Imagen Classifier</b>
   - [Cat and Dog Image Classifier](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/cat_dog_fcc.ipynb)
+ 
+
+ 
 
  
   
