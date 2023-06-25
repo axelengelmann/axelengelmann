@@ -2,6 +2,13 @@
 
 <h2>👨‍💻 Data Science/ML Projects:</h2>
 
+
+- <b>Hypothesis Testing</b>
+  - [TikTok project](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/TikTok_Project.ipynb) 
+
+- <b>EDA and Visualizations on Tableau</b>
+  - [Automatidata Project](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/Automatidata_project.ipynb)
+
 - <b>Model Evaluation and Selection - Machine Learning - Regression, Classification, Polynomial Features and Feature scaling</b>
   - [Model Evaluation and Selection](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/Model_Evaluation_and_Selection_ML.ipynb)
  
@@ -22,9 +29,7 @@
  
 - <b>Imagen Classifier</b>
   - [Cat and Dog Image Classifier](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/cat_dog_fcc.ipynb)
- 
-- <b>Hypothesis Testing</b>
-  - [TikTok project](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/TikTok_Project.ipynb)
+
  
 
  
