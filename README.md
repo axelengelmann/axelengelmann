@@ -23,6 +23,9 @@
 - <b>Imagen Classifier</b>
   - [Cat and Dog Image Classifier](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/cat_dog_fcc.ipynb)
  
+- <b>Hypothesis Testing</b>
+  - [TikTok project](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/TikTok_Project.ipynb)
+ 
 
  
 
