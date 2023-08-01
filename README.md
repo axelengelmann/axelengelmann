@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Data Science/ML Projects:</h2>
 
-
+- <b>Generative AI Use Case: Summarize Dialogue. Prompt Engineering, Zero Shot, One Short and Few Shot Inferences</b>
+  - [Summarize Dialogue]( https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/summarize_dialogue.ipynb)
+    
 - <b>Hypothesis Testing</b>
   - [TikTok project](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/TikTok_Project.ipynb) 
 
@@ -29,6 +31,9 @@
  
 - <b>Imagen Classifier</b>
   - [Cat and Dog Image Classifier](https://github.com/axelengelmann/datascience_portfolio_axelengelmann/blob/main/cat_dog_fcc.ipynb)
+ 
+
+ 
 
  
 
